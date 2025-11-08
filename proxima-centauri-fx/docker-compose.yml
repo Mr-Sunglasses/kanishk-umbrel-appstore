@@ -12,6 +12,6 @@ services:
       - ${APP_DATA_DIR}/data:/data
     environment:
       - FX_USERNAME=admin
-      - FX_PASSWORD=${APP_PASSWORD}
-      - FX_DOMAIN=${DEVICE_DOMAIN_NAME}
+      - FX_PASSWORD=$APP_PASSWORD
+      - FX_DOMAIN=$DEVICE_DOMAIN_NAME
 
