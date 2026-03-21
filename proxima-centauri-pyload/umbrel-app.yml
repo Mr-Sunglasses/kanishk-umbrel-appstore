@@ -21,10 +21,11 @@ submitter: Kanishk Pachauri
 submission: https://github.com/getumbrel/umbrel-apps/pull/4124
 releaseNotes: ""
 dependencies: []
+icon: "https://raw.githubusercontent.com/Mr-Sunglasses/test-repo/refs/heads/master/assets/pyload/icon/icon.jpg"
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://raw.githubusercontent.com/Mr-Sunglasses/test-repo/refs/heads/master/assets/pyload/1.jpg 
+  - https://raw.githubusercontent.com/Mr-Sunglasses/test-repo/refs/heads/master/assets/pyload/2.jpg
+  - https://raw.githubusercontent.com/Mr-Sunglasses/test-repo/refs/heads/master/assets/pyload/3.jpg
 permissions:
   - STORAGE_DOWNLOADS
 path: ""
