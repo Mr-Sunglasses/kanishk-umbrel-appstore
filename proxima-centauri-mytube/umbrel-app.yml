@@ -2,7 +2,7 @@ manifestVersion: 1
 id: proxima-centauri-mytube
 category: media
 name: MyTube
-version: "1.10.19rc"
+version: "1.10.19rcn"
 tagline: Your personal video library and downloader
 description: >-
   Download, organize, and watch videos from YouTube, Bilibili, Twitch, and other yt-dlp-supported sites on your Umbrel.

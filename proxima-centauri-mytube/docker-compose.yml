@@ -12,3 +12,7 @@ services:
     volumes:
       - ${APP_DATA_DIR}/data/app:/app/data
       - ${APP_DATA_DIR}/data/uploads:/app/uploads
+    environment:
+      - PUID=1000
+      - PGID=1000
+
